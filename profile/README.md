@@ -1,7 +1,6 @@
 <a href="https://github.com/tework">
   <kbd>
     <img src="/welcome.jpg"/>
-      <kbd>Tework - Virtual Coworking</kbd>
   </kbd>
 </a>
 
@@ -13,7 +12,7 @@ Why work from home alone? #tework-app #use-tework
 
 ## Functions
 
-- noteblock
+- Noteblock
 - to-do
 - Email Reader
 - Task Automation
@@ -38,7 +37,7 @@ Don't forget to give the project a star!
 
 ## License
 
-Each code is released under <a href="">GPL-3.0</a>. See `LICENSE` in the repositories for more information.
+Tework is released under <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL-3.0</a>. See `LICENSE` in the repositories for more information.
 
 ## Team tework.
 
