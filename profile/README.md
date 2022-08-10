@@ -1,6 +1,6 @@
 <a href="https://github.com/tework">
   <kbd>
-    <img src="/welcome.jpg"/>
+    <img src="/welcome.jpg" alt="banner"/>
   </kbd>
 </a>
 
@@ -10,7 +10,11 @@ Tework is a virtual coworking platform, where you can use voice/text chat's to s
 
 Why work from home alone? #tework-app #use-tework
 
-## Functions
+## Chat's System
+
+In tework you can create public or private voice/text chat's, that can comport up to 500 people voice connected and unlimited members in text chat's. We use a simple node.js audio/video recorder to voice call's with noise cancelling and light connection. Our text chat's have spaces for emojis, stickers and support all types of archives like videos, pdf's, executables, etc...
+
+## Side-Functions
 
 - Noteblock
 - to-do
